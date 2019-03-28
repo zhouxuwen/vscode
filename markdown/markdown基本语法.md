@@ -221,4 +221,4 @@ is maintained by the W3C.
 *[HTML]: Hyper Text Markup Language
 *[W3C]:  World Wide Web Consortium
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+[更多功能在这里查看](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
